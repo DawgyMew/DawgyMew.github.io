@@ -1,0 +1,39 @@
+{
+    "Songs":[
+        {
+            "Name": "Spots 2",
+            "Artist": "Snuffles",
+            "Art":"https://f4.bcbits.com/img/a3840818966_10.jpg"
+        },
+        {
+            "Name":"If I Were to Die",
+            "Artist":"Yonkagor",
+            "Art":"https://f4.bcbits.com/img/a1690828301_10.jpg"
+        },
+        {
+            "Name":"HARDLY KNOW 'ER",
+            "Artist":"colon3",
+            "Art":"https://f4.bcbits.com/img/a1956541298_10.jpg"
+        },
+        {
+            "Name":"Beep Beep Bag",
+            "Artist":"FEM&M",
+            "Art":"https://f4.bcbits.com/img/a0322766484_16.jpg"
+        },
+        {
+            "Name":"INFAMOUS",
+            "Artist":"ivycomb",
+            "Art":"https://f4.bcbits.com/img/a0961647579_10.jpg"
+        },
+        {
+            "Name":"KISS ME! (feat. Pent Up Pup & sixwing) ",
+            "Artist":"MAILPUP",
+            "Art":"https://f4.bcbits.com/img/a1717785735_10.jpg"
+        },
+        {
+            "Name":"GEOCITIES",
+            "Artist":"ida deerz",
+            "Art":"https://f4.bcbits.com/img/a2067745526_10.jpg"
+        }
+    ]
+}
